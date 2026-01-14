@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="AI Fridge Chef Banner" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+  <img src="./assets/hero-banner.png" alt="AI Fridge Chef Banner" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
 
   <br />
   <br />
