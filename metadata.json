@@ -1,0 +1,7 @@
+{
+  "name": "AI Fridge Chef",
+  "description": "Pretvorite namirnice iz svog frižidera u ukusne recepte uz pomoć AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

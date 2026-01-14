@@ -1,0 +1,22 @@
+{
+  "short_name": "FridgeChef",
+  "name": "AI Fridge Chef",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448609.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448609.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fff7ed",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#f97316",
+  "description": "Pretvorite namirnice iz svog frižidera u ukusne recepte uz pomoć AI."
+}
