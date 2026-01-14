@@ -27,7 +27,7 @@
 
   <br />
 
-  [![](https://img.shields.io/badge/View_in_AI_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://ai.studio/apps/drive/1zV30BKprAxXxzzCqjLN4IC3yDu8rzny-)
+  <img src="./assets/demo-screenshot.png" alt="App Demo" width="100%" style="border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
 
 </div>
 
@@ -148,5 +148,5 @@ Follow these steps to set up the project locally on your machine.
 ---
 
 <div align="center">
-  <p>Made with ❤️ and 🤖</p>
+  <p>Made with ❤️ By: Amer Biberovic</p>
 </div>
